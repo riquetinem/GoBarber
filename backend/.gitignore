@@ -1,4 +1,3 @@
 node_modules
-auth.js
 tmp/uploads/*
-Mail.js
+.env

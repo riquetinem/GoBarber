@@ -1,6 +1,6 @@
 import { format, parseISO } from 'date-fns';
 import pt from 'date-fns/locale/pt';
-import MailConfig from '../../lib/MailConfig';
+import MailConfig from '../../lib/Mail';
 
 class CancellationMail {
   get key() {
