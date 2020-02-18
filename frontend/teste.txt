@@ -6,3 +6,7 @@
     }
   }
 }
+
+jsconfig.json
+
+// retirei esse arquivo pois ele nao estava compilando a aplicação
