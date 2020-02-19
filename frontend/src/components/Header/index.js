@@ -25,7 +25,7 @@ export default function Header() {
               <Link to="/profile">Meu Perfil</Link>
             </div>
             <img
-              src="/home/lil_tinem/Downloads/1581709738113-attachment.svg"
+              src="https://api.adorable.io/avatars/50/abott@adorable.png"
               alt="Henrique"
             />
           </Profile>
