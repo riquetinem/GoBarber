@@ -1,0 +1,8 @@
+POSTGRES:
+docker run --name NOMEDABASEDEDADOS -e POSTGRES_PASSWORD=SENHA-UTRA-MEGA-PODEROSA -p 5432:5432 -d postgres
+
+REDIS:
+docker run --name NOMEDABASEDEDADOS -p 6379:6379 -d -t redis:alpine
+
+MONGO:
+docker run --name NOMEDABASEDEDADOS -p 27017:27017 -d -t mongo
