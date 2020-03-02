@@ -48,6 +48,7 @@ export function* signUp({ payload }) {
       password,
     });
 
+    Alert.alert('Successo!', 'Cadastro realizado com successo');
     // history.push('/');
   } catch (err) {
     Alert.alert(
